@@ -121,7 +121,7 @@
     }
 }
 
-@media screen and (max-width:1728) {
+@media screen and (min-width:1728px) {
     .container__link {
         display: flex;
         align-items: center;
@@ -136,6 +136,7 @@
 
     .opcoes {
         margin-right: auto;
+        
     }
 
     .container__texto {
